@@ -10,4 +10,9 @@ public class DefualtTest {
   void test() {
     System.out.println("Тестируем...");
   }
+
+  @Test
+  void test2() {
+    System.out.println("Тестируем...2");
+  }
 }
